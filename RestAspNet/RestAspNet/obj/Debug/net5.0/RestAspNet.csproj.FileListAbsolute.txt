@@ -27,3 +27,13 @@ C:\Dev\RestAspNet\RestAspNet\RestAspNet\RestAspNet\obj\Debug\net5.0\RestAspNet.d
 C:\Dev\RestAspNet\RestAspNet\RestAspNet\RestAspNet\obj\Debug\net5.0\ref\RestAspNet.dll
 C:\Dev\RestAspNet\RestAspNet\RestAspNet\RestAspNet\obj\Debug\net5.0\RestAspNet.pdb
 C:\Dev\RestAspNet\RestAspNet\RestAspNet\RestAspNet\obj\Debug\net5.0\RestAspNet.genruntimeconfig.cache
+C:\Dev\RestAspNet\RestAspNet\RestAspNet\RestAspNet\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Dev\RestAspNet\RestAspNet\RestAspNet\RestAspNet\bin\Debug\net5.0\Microsoft.Bcl.HashCode.dll
+C:\Dev\RestAspNet\RestAspNet\RestAspNet\RestAspNet\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Dev\RestAspNet\RestAspNet\RestAspNet\RestAspNet\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Dev\RestAspNet\RestAspNet\RestAspNet\RestAspNet\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Dev\RestAspNet\RestAspNet\RestAspNet\RestAspNet\bin\Debug\net5.0\MySqlConnector.dll
+C:\Dev\RestAspNet\RestAspNet\RestAspNet\RestAspNet\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Dev\RestAspNet\RestAspNet\RestAspNet\RestAspNet\bin\Debug\net5.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Dev\RestAspNet\RestAspNet\RestAspNet\RestAspNet\bin\Debug\net5.0\Pomelo.JsonObject.dll
+C:\Dev\RestAspNet\RestAspNet\RestAspNet\RestAspNet\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.Versioning.dll
