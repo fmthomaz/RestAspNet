@@ -6,8 +6,8 @@ namespace RestAspNet.Provider
     public interface IPersonProvider
     {
         Person Create(Person person);
-        Person FindById(long id);
-        void Delete(long id);
+        Person FindById(int id);
+        void Delete(int id);
         List<Person> FindAll();
         Person Update(Person person);
     }

@@ -5,39 +5,35 @@ using System.Collections.Generic;
 
 namespace RestAspNet.Provider.Implementations
 {
-    public class PersonProviderImplementation : IPersonProvider
+    public class BookProviderImplementation : IBookProvider
     {
-        private readonly IRepository<Person> _repository;
+        private readonly IRepository<Book> _repository;
 
-        public PersonProviderImplementation(IRepository<Person> repository)
+        public BookProviderImplementation(IRepository<Book> repository)
         {
             _repository = repository;
         }
 
-        public Person Create(Person person)
+        public Book Create(Book book)
         {
-            return _repository.Create(person);
+            return _repository.Create(book);
         }
-
         public void Delete(int id)
         {
             _repository.Delete(id);
         }
-
-        public List<Person> FindAll()
+        public List<Book> FindAll()
         {
 
             return _repository.FindAll();
         }
-
-        public Person FindById(int id)
+        public Book FindById(int id)
         {
             return _repository.FindById(id);
         }
-
-        public Person Update(Person person)
+        public Book Update(Book book)
         {
-            return _repository.Update(person);
-        }        
+            return _repository.Update(book);
+        }
     }
 }

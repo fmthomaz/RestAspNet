@@ -27,7 +27,7 @@ namespace RestAspNet.Controllers
         }
 
         [HttpGet("{id}")]
-        public IActionResult Get(long id)
+        public IActionResult Get(int id)
         {
             var person = _personProvider.FindById(id);
             if(person == null) { return NotFound(); }
@@ -54,7 +54,7 @@ namespace RestAspNet.Controllers
         }
 
         [HttpDelete("{id}")]
-        public IActionResult Delete(long id)
+        public IActionResult Delete(int id)
         {
             _personProvider.Delete(id);            
 

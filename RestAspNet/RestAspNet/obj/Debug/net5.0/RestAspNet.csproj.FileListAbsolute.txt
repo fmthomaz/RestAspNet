@@ -37,3 +37,15 @@ C:\Dev\RestAspNet\RestAspNet\RestAspNet\RestAspNet\bin\Debug\net5.0\Newtonsoft.J
 C:\Dev\RestAspNet\RestAspNet\RestAspNet\RestAspNet\bin\Debug\net5.0\Pomelo.EntityFrameworkCore.MySql.dll
 C:\Dev\RestAspNet\RestAspNet\RestAspNet\RestAspNet\bin\Debug\net5.0\Pomelo.JsonObject.dll
 C:\Dev\RestAspNet\RestAspNet\RestAspNet\RestAspNet\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.Versioning.dll
+C:\Dev\RestAspNet\RestAspNet\RestAspNet\RestAspNet\bin\Debug\net5.0\Evolve.dll
+C:\Dev\RestAspNet\RestAspNet\RestAspNet\RestAspNet\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Dev\RestAspNet\RestAspNet\RestAspNet\RestAspNet\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+C:\Dev\RestAspNet\RestAspNet\RestAspNet\RestAspNet\bin\Debug\net5.0\Serilog.dll
+C:\Dev\RestAspNet\RestAspNet\RestAspNet\RestAspNet\bin\Debug\net5.0\Serilog.AspNetCore.dll
+C:\Dev\RestAspNet\RestAspNet\RestAspNet\RestAspNet\bin\Debug\net5.0\Serilog.Extensions.Hosting.dll
+C:\Dev\RestAspNet\RestAspNet\RestAspNet\RestAspNet\bin\Debug\net5.0\Serilog.Extensions.Logging.dll
+C:\Dev\RestAspNet\RestAspNet\RestAspNet\RestAspNet\bin\Debug\net5.0\Serilog.Formatting.Compact.dll
+C:\Dev\RestAspNet\RestAspNet\RestAspNet\RestAspNet\bin\Debug\net5.0\Serilog.Settings.Configuration.dll
+C:\Dev\RestAspNet\RestAspNet\RestAspNet\RestAspNet\bin\Debug\net5.0\Serilog.Sinks.Console.dll
+C:\Dev\RestAspNet\RestAspNet\RestAspNet\RestAspNet\bin\Debug\net5.0\Serilog.Sinks.Debug.dll
+C:\Dev\RestAspNet\RestAspNet\RestAspNet\RestAspNet\bin\Debug\net5.0\Serilog.Sinks.File.dll
